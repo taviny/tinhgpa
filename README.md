@@ -1,4 +1,4 @@
-**HƯỚNG DẪN CÁCH DÙNG WEBSITE TINHGPA**
+**HƯỚNG DẪN CÁCH DÙNG WEBSITE ([TINHGPA](https://tinhgpa.netlify.app/))**
 
 **B1:** Vào trang [sv.dut.udn.vn](http://sv.dut.udn.vn/), truy cập mục kết quả học tập, rèn luyện
 
