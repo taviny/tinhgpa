@@ -1,8 +1,8 @@
-**HƯỚNG DẪN**
+**HƯỚNG DẪN CÁCH DÙNG WEBSITE TINHGPA**
 
-**B1:** Vào trang [(sv.dut.udn.vn)](http://sv.dut.udn.vn/), truy cập mục kết quả học tập, rèn luyện
+**B1:** Vào trang [sv.dut.udn.vn](http://sv.dut.udn.vn/), truy cập mục kết quả học tập, rèn luyện
 
-**B2:** Copy như hình, kỳ học cần ước lượng điểm
+**B2:** Copy như hình, kỳ học cần ước lượng điểm 
 
 ![image](https://github.com/user-attachments/assets/07994658-55b9-4d1f-8004-5cd0af642752)
 
