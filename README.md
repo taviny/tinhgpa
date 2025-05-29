@@ -1,0 +1,2 @@
+# tinhgpa
+Hướng dẫn
