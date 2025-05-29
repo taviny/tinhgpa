@@ -10,5 +10,9 @@
 
 ![image](https://github.com/user-attachments/assets/60892d2f-7bca-4453-bc72-384ac4edad59)
 
+Contact: 
 
+[facebook](https://j2c.cc/admin)
+
+[mail](mailto:thanhvinhphanle@gmail.com)
 
