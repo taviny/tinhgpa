@@ -1,5 +1,7 @@
 **HƯỚNG DẪN CÁCH DÙNG WEBSITE [TINHGPA](https://tinhgpa.netlify.app/)**
 
+link website: https://tinhgpa.netlify.app
+
 **B1:** Vào trang [sv.dut.udn.vn](http://sv.dut.udn.vn/), truy cập mục kết quả học tập, rèn luyện
 
 **B2:** Copy như hình, kỳ học cần ước lượng điểm 
